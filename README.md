@@ -15,3 +15,21 @@ Netflix is one of the most popular media and video streaming platforms. They hav
 
 ## Dataset
 The database was downloaded from the [Kaggle](https://www.kaggle.com/datasets/shivamb/netflix-shows) website.
+
+The database contains information about:
+* show_id
+* type
+* title
+* director
+* cast
+* country
+* date_added
+* release_year
+* rating
+* duration
+* listed_in
+* description
+
+The database has 8807 rows and 12 columns.
+
+## Data Cleaning
