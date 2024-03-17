@@ -51,4 +51,19 @@ On the Movies vs TV Shows chart, we can see the percentage share of movies and T
 The above chart shows the Top 10 countries with the most films on the Netflix platform. From the chart, we can infer that the vast majority of the film database consists of movies from the United States. Interestingly, in second place, significantly standing out among the rest of the top ten, are India.
 
 ![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Distribution%20of%20Release%20Year.png)
+
 From the compiled Netflix database, it appears that the majority of the database consists of movies that were released between 2010 and 2020, with the highest number falling around the years 2016 to 2018.
+
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Movies%20Ratings.png)
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20TV%20Shows%20Ratings.png)
+
+The majority of the Movies and TV Shows on the Netflix platform are intended for adults, not necessarily for children under 17 years old.
+
+
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20TV%20Shows%20Durations.png)
+
+The majority of TV Shows on Netflix have only one season. 
+
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Listed%20Geners%20for%20TV%20Shows.png)
+
+In the Netflix TV Shows database, the largest group consists of Crime TV Shows, International TV Shows, and TV Dramas.
