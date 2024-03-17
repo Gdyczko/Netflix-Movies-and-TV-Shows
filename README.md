@@ -42,3 +42,13 @@ The data encoding was checked, and the date format in the "date_added" column wa
 After cleaning the data, the indexes were reset.
 
 ## Analysis and visualization of data
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Movies%20vs%20TV%20Shows.png)
+
+On the Movies vs TV Shows chart, we can see the percentage share of movies and TV shows in the Netflix database. Movies significantly outnumber TV shows on the Netflix platform.
+
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Top%2010%20Countries.png)
+
+The above chart shows the Top 10 countries with the most films on the Netflix platform. From the chart, we can infer that the vast majority of the film database consists of movies from the United States. Interestingly, in second place, significantly standing out among the rest of the top ten, are India.
+
+![alt text](https://github.com/Gdyczko/Netflix_Movies_and_TV_Shows/blob/main/Distribution%20of%20Release%20Year.png)
+From the compiled Netflix database, it appears that the majority of the database consists of movies that were released between 2010 and 2020, with the highest number falling around the years 2016 to 2018.
