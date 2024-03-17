@@ -33,3 +33,12 @@ The database contains information about:
 The database has 8807 rows and 12 columns.
 
 ## Data Cleaning
+After loading the dataset, its structure, encoding, missing values, and duplicates were checked. 
+
+According to the applied function, our data doesn't contain any duplicates but includes missing values NaN. Since 3475 rows had missing values, they were removed, resulting in a database with 5332 rows.
+
+The data encoding was checked, and the date format in the "date_added" column was converted accordingly.
+
+After cleaning the data, the indexes were reset.
+
+## Analysis and visualization of data
